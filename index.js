@@ -1,4 +1,5 @@
 // Code your solution in this file!
 function companyName() {
-  companyName = 'Scuber';
+  let companyName = 'Scuber';
+  return companyName;
 }
